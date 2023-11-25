@@ -1702,7 +1702,7 @@ var prettyPrint;
 })();
 
 
-var path = require('path');
+var path = require('path-browserify');
 
 module.exports = {
   prettyPrint: prettyPrint,
